@@ -1,0 +1,7 @@
+{
+  "name": "Traco Map Prototype 1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
